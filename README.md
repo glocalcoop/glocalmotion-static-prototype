@@ -1,4 +1,4 @@
-glocalmotion-static-prototype
+Glocalmotio Static Prototype
 =============================
 
-Static prototype for 'in code' development for glocal motion concepts and ui/ux documentation.
+Static prototype for 'in code' development for GlocalMotion frontend concepts and ui/ux documentation.
